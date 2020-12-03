@@ -1,0 +1,41 @@
+h1 {
+	text-align: right;
+	font-size: 40px;
+	font-family: Garamond;
+	color: white;
+	line-height:;
+	text-transform:;
+}
+p {
+	text-align: left;
+	font-size: 16px;
+	font-family: Garamond;
+	Color: #1f032e;
+	border: 2px solid white;
+	padding: 5px;
+	margin: 50px;
+}
+body {
+	margin: ;
+	background: #499EB6;
+}
+ul {
+	font-size: 16px;
+	font-family: Garamond;
+	text-align: center;
+	color: white;
+}
+div {
+	font-family: Garamond;
+	text-align: left;
+	color: white;
+}
+img {
+	max-width: 400px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px black;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
